@@ -1,0 +1,8 @@
+Projet title : Employee Management System
+Model class : Employee
+DAO class : EmployeeDAO
+Service class : EmployeeService
+Main class : DemoController
+Database Connection : D8connect
+Database config : db.prop
+
